@@ -1,3 +1,3 @@
 <?php
-echo 'Hello AndhraPradesh!';
+echo 'Hello Andhra!';
 ?>
